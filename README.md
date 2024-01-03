@@ -1,7 +1,6 @@
-
-Pet-Health-Product-classification
+Pet-Health-Product-classification  
 Classify pet health products into different type.
 
-Data Description
+Data Description  
 item：Product name
 class：Type of product
