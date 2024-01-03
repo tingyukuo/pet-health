@@ -1,1 +1,7 @@
-This model is for product types classification.
+
+Pet-Health-Product-classification
+Classify pet health products into different type.
+
+Data Description
+item：Product name
+class：Type of product
